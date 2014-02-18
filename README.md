@@ -1,1 +1,1 @@
-Chaning in the file
+Changing in the file
