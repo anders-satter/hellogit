@@ -14,5 +14,5 @@ To unstage a change:
 	then checkout
 	If the file has been commited:
 	
- 
+Adding some text, just to change the file 
 
