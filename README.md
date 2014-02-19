@@ -8,3 +8,6 @@ red files are changed but not added
 green files are changed and added
 If you add the file again you will overwrite the previous add
 
+To unstage a change I can use checkout but I have to specify the
+file name
+
