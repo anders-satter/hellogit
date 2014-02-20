@@ -17,3 +17,7 @@ To unstage a change:
 Adding some text, just to change the file 
 
 This is the part that is made in the branch
+
+This is another comment made in the new branch
+
+To be or not to be
