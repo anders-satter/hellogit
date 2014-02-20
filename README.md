@@ -16,3 +16,4 @@ To unstage a change:
 	
 Adding some text, just to change the file 
 
+This is the part that is made in the branch
